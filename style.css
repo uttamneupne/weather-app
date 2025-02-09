@@ -5,7 +5,9 @@
     box-sizing: border-box;
 }
 body{
-    background: #424141;
+    
+    background: url('images/worldmap.jpg') no-repeat center center fixed;
+    background-size: cover;
 
 }
 .card{
